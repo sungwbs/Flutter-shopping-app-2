@@ -1,5 +1,8 @@
 # Flutter-shopping-app-2
 
+- 개발환경: AndroidStudio / Firebase
+- clone coding
+<hr>
 ![](https://velog.velcdn.com/images/sungwbs/post/a3923b19-f098-403b-90ad-268a7cfb056f/image.png)
 
 
